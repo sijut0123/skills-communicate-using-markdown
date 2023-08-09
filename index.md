@@ -1,4 +1,9 @@
 # Adding a code example
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
+
 <?xml version="1.0" encoding="UTF-8"?>
 <svg id="_レイヤー_1" data-name="レイヤー 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 529.71 112.22">
   <defs>
